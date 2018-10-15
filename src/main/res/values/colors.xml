@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="md_red_500">#F44336</color>
+    <!-- purples -->
+    <color name="md_purple_500">#9C27B0</color>
+    <!-- indigo -->
+    <color name="md_indigo_500">#3F51B5</color>
+    <!-- green -->
+    <color name="md_green_500">#4CAF50</color>
+     <!--orange-->
+    <color name="md_orange_500">#FF9800</color>
+    <!--grey-->
+    <color name="md_grey_500">#9E9E9E</color>
+
+
+</resources>
